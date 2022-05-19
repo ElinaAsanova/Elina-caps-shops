@@ -1,0 +1,51 @@
+.banner-c-container {
+    display: flex;
+    padding: 0px 100px 0px;
+    background: linear-gradient(93.98deg, #FDDB16 0.21%, #FFB800 100%);
+    background-size: cover;
+}
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-column-top {
+    margin-bottom: 30px;
+}
+
+.banner-c-desc{
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    margin-top: 133px;
+    margin-left: 67px;
+}
+.c-major-desc {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+
+.c-minor-desc {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    text-align: left;
+    text-transform: lowercase;
+}
+
+.c-desc-btn {
+    width: 230px;
+    height: 60px;
+    margin-top: 40px;
+}
+
+.banner-c-caps {
+    position: absolute;
+    right: 0px;
+    top: 1770px;
+    width: 951.25px;
+    height: 445.9px;
+}
